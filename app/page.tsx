@@ -11,7 +11,7 @@ export default function Home() {
           src="/header.jpg"
           alt="AOICON 2026 Kolkata"
           fill
-          className="object-cover"
+          className="object-fill"
           priority
           sizes="100vw"
           style={{ objectPosition: "center" }}
